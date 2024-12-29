@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: darkslateblue;
+    font-size: x-large;
+}
+
+body {
+    margin: 0;
+    font-family: cursive;
+}
+
+.top-right-link {
+    position: absolute;
+    top: 10px;
+
+    right: 10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 1em;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.top-right-link:hover {
+    background-color: #45a049;
+}
